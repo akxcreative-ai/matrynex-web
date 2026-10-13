@@ -1,6 +1,6 @@
 import React from "react";
 import Link from "next/link";
-import { ArrowRight, Cpu, Layers } from "lucide-react";
+import { ArrowRight, Cpu } from "lucide-react";
 
 export function HeroSection() {
   return (

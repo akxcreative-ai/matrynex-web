@@ -1,5 +1,4 @@
 import React from "react";
-import Link from "next/link";
 import { HeroSection } from "@/components/home/HeroSection";
 import { FeaturedProjects } from "@/components/home/FeaturedProjects";
 import { Capabilities } from "@/components/home/Capabilities";
